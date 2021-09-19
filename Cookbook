@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>John's Book for Cooking stuff</title>
+        <meta charset="utf-8">
+        <style>
+        #Ham{background-color: rgb(255, 255, 255);}
+        #hotd{background-color: rgb(255, 255, 255);}
+        #sal{background-color: rgb(255, 255, 255);}
+        body{background-color: rgb(252, 227, 126);}
+        h1{background-color: rgb(255, 255, 255);}
+
+        </style>
+    </head>
+    <body>
+       
+        <h1>John's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#Ham">Ham Sandwich</a></li>
+            <li><a href="#hotd">Hot Dog</a></li>
+            <li><a href="#sal">Salad</a></li>
+        </ol>
+        
+        <h2 id= "Ham">Ham Sandwich</h2>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mmm...hot_ham_and_cheese_with_homemade_mustard_%284970848133%29.jpg/800px-Mmm...hot_ham_and_cheese_with_homemade_mustard_%284970848133%29.jpg" alt="Ham sanwich" width="200">
+        
+        <ul>
+            <li>Time: 5 minutes</li>
+            <li>Serves:1 person</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>Bread, Ham, cheese.
+                    <td> 2 slices of any bread, 2 slices of Ham, 1 slice of any cheese. 
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Take out 2 slices of Bread.
+        <p><strong>Step 2:</strong> Place 2 slices of Ham onto the Bread </p>
+</p>
+<p><strong>Step 3:</strong>Then place one slice of cheese on either side of the Bread</p>
+
+<h2 id="hotd">Hot dog</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/1024px-Hot_dog_with_mustard.png" alt="Hot dog" width="200">
+   <ul>
+    <li>Time: 15 minutes</li>
+    <li>Serves: 1 person</li>
+    
+   </ul>
+   <table>
+       <thead>
+           <tr>
+               <th>Ingredients</th>
+               <th>Quantity</th>
+           </tr>
+           <tr>
+               <td>Hot dog bun, Beef Hot dog</td>
+               <td>1 hot dog bun, 1 beef hot dog
+           </tr>
+       </thead>
+   </table>
+   
+   <p><strong>Step 1:</strong>Turn on stove and place a pan on top.</p>
+   <p><strong>Step 2:</strong>Place oil or butter within pan, and let heat up</p>
+   <p><strong>Step 3:</strong>Place the hotdog into the pan once at proper heat</p>
+   <p><strong>Step 4:</strong>Cook hotdog on one side for 4 to 5 minutes, then flip onto other side and let cook for 4 to 5 minutes</p>
+   <p><strong>Step 5:</strong>Take out hotdog bun and <strong>with tongs</strong> take out hotdog and place within bun</p>
+   
+   <h2 id="sal">Salad</h2>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Salad_platter.jpg/800px-Salad_platter.jpg" alt="Salad" width="200">
+   
+   <ul>
+       <li>Time: 5 minutes</li>
+       <li>Serves: 4 people</li>
+   </ul>
+   
+   <table>
+       <thead>
+       <tr>
+           <th>Ingredients</th>
+           <th>Quantity</th>
+       </tr>
+       <tr>
+           <td> Lettuce, tomatoe, any Dressing</td>
+           <td> A head of Lettuce, 1 tomatoe, a bottle of dressing
+       </tr>
+       </thead>
+   </table>
+   <p><strong>Step 1:</strong>Take out the head of Lettuce and <strong><em>carefully</em></strong> slice thinly.</p>
+   <p><strong>Step 2:</strong>Then take the Tomatoe and also cut it carefully</p>
+   <p><strong>Step 3:</strong>Then place the cut up Lettuce and Tomatoe into a bowl, and drizzle dressing of choice within the bowl</p>
+   <p><strong>Step 4:</strong>Finally, toss salad with tongs and serve.</P>
+    <p><em>Source: <a href="https://www.wikihow.com/Cook-Hot-Dogs#Grilling-Hot-Dogs">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
